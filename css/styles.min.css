@@ -5,8 +5,12 @@
 p {
   font-size: 15px;
   line-height: 29px;
-  color: rgba(28, 54, 83, .6);
+  color: black;
   padding-bottom: 20px;
+}
+
+body {
+    background-color: #A7C7E7;
 }
 
 h1 {
@@ -85,8 +89,8 @@ h5 {
 
 .btn-fill:hover,
 .btn-fill:focus {
-  color: #fff;
-  background-color: #d3b56a;
+  color: #ffffff;
+  background-color: #000080;
   border-color: #d3b56a;
 }
 
@@ -105,7 +109,7 @@ h5 {
 section.intro,
 section.features-extra,
 section.rsvp {
-  background: #fff;
+  background: #A7C7E7;
 }
 
 section.features,
@@ -147,7 +151,7 @@ a:focus {
 body {
   font-family: "Open Sans", sans-serif;
   font-weight: 300;
-  color: rgba(28, 54, 83, .6);
+  color: #A7C7E7;
   -webkit-text-size-adjust: 100%;
 }
 
@@ -218,7 +222,7 @@ section .header {
 .tooltip-inner {
   max-width: 200px;
   padding: 3px 8px;
-  color: #fff;
+  color: #A7C7E7;
   text-align: center;
   text-decoration: none;
   text-transform: capitalize;
@@ -344,7 +348,7 @@ section .header {
   -moz-border-radius: 1px;
   -webkit-border-radius: 1px;
   border-radius: 1px;
-  background: #fff;
+  background: #A7C7E7;
   cursor: pointer;
 }
 
@@ -420,7 +424,7 @@ section .header {
 }
 
 .hero p.intro {
-  color: #fff;
+  color: #A7C7E7;
   font-size: 20px;
   font-weight: 300;
   margin-bottom: 80px;
@@ -460,7 +464,7 @@ header {
 }
 
 header a {
-  color: #fff;
+  color: #A7C7E7;
   text-transform: uppercase;
   font-size: 13px;
 }
@@ -487,7 +491,7 @@ header ul.primary-nav li {
 }
 
 header ul.primary-nav li a {
-  color: #fff;
+  color: #A7C7E7;
   padding-right: 25px;
 }
 
@@ -504,7 +508,7 @@ header ul.member-actions li {
 }
 
 header ul.member-actions li a {
-  color: #fff;
+  color: #A7C7E7;
 }
 
 header ul.member-actions li a:hover {
@@ -695,7 +699,7 @@ header .member-actions {
 }
 
 .hero-strip h2 {
-  color: #fff;
+  color: #A7C7E7;
   margin: 0 0 20px 0;
 }
 
@@ -714,6 +718,10 @@ header .member-actions {
   bottom: -285px;
   left: 50%;
   transform: translateX(-50%);
+}
+
+.events {
+    background-color: ffb347;
 }
 
 .events .leftcol {
@@ -777,7 +785,7 @@ header .member-actions {
 }
 
 .blog .blog-img-wrap i {
-  color: #fff;
+  color: #A7C7E7;
   font-size: 20px;
   position: absolute;
   width: 20px;
@@ -851,7 +859,7 @@ header .member-actions {
 }
 
 #eng-pics .img-wrap i {
-  color: #fff;
+  color: #A7C7E7;
   font-size: 15px;
   position: absolute;
   width: 15px;
@@ -912,14 +920,14 @@ header .member-actions {
 }
 
 #video-content h5 {
-  color: #fff;
+  color: #A7C7E7;
   font-size: 30px;
   font-weight: 300;
   letter-spacing: 10px;
 }
 
 #video-content p {
-  color: #fff;
+  color: #A7C7E7;
 }
 
 #map-canvas {
@@ -936,7 +944,7 @@ header .member-actions {
 #map-content {
   margin-top: 40px;
   padding: 50px 60px;
-  background: #fff;
+  background: #A7C7E7;
   -webkit-transition: opacity .5s, visibility .6s, margin-top .5s;
   transition: opacity .5s, visibility .6s, margin-top .5s;
 }
@@ -974,6 +982,9 @@ header .member-actions {
   font-size: 13px;
 }
 
+.main-rsvp-btn {
+    margin-top: 120px;
+}
 .rsvp .rsvp-form .form-input-group {
   width: 100%;
   height: 55px;
@@ -1053,7 +1064,7 @@ footer .to-top-wrapper {
   width: 50px;
   height: 50px;
   border: 1px solid #e6e9ea;
-  background: #fff;
+  background: #A7C7E7;
 }
 
 footer .to-top-wrapper .to-top {
