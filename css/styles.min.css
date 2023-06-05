@@ -427,11 +427,12 @@ section .header {
 }
 
 .hero .hero-content {
-  padding-top: 40%;
+  padding-top: 20%;
+  padding-right: 7%
 }
 
 .hero .hero-content img {
-  width: 55%;
+  width: 75%;
   margin-bottom: 12%;
 }
 
